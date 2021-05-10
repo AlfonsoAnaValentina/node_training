@@ -4,6 +4,7 @@
   "description": "This Repo is set due to a node js training",
   "main": "index.js",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "cors": "^2.8.5",
     "dotenv": "^9.0.0",
